@@ -25,10 +25,10 @@ Berikut ini adalah program yang kami gunakan
 
 ## 3. Perbedaan Time Eksekusi pada Multinode dan SingleNode
 ### 3.1 Multinode
-    mpirun -n 4 -host danserver,slave,slave2,slave3 python3 numerik.py <br>
+    mpirun -n 4 -host danserver,slave,slave2,slave3 python3 numerik.py 
 ![MN](https://github.com/feliana444/Eksekusi-Program-Numerik-Python-Menggunakan-MPI/assets/145323449/2c90cdb5-8a79-456c-8f45-ec8a8a3c979c)
 ### 3.2 SingleNode
-    python3 numerik.py <br>  
+    python3 numerik.py 
 ![SN](https://github.com/feliana444/Eksekusi-Program-Numerik-Python-Menggunakan-MPI/assets/145323449/21273505-8c79-40ad-bf94-f701ff97f117)
 
     
