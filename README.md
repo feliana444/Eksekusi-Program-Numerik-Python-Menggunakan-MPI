@@ -32,13 +32,10 @@ def main():
     size = comm.Get_size()
 
     if rank == 0:
-        # Ambil input dari pengguna
         input_str = input("Masukkan data, dipisahkan dengan spasi: ")
         data = list(map(int, input_str.split()))
     else:
         data = None
-
-    # Broadcast data dari proses 0 ke semua proses
     data = comm.bcast(data, root=0)
 
     chunk_size = len(data) // size
