@@ -19,7 +19,7 @@ Pastikan pada komputer sudah menginstall MPI, berikut adalah link cara menginsta
 ### 2.2 Edit File <br>
     sudo nano <nama file>
 ### 2.3 Masukkan Program Numerik.py ke dalam file yang sudah dibuat <br>
-    Berikut ini adalah program yang kami gunakan
+Berikut ini adalah program yang kami gunakan
 ![NP](https://github.com/feliana444/Eksekusi-Program-Numerik-Python-Menggunakan-MPI/assets/145323449/055a6de1-16fd-42b0-a662-2e74293717af)
 
 
