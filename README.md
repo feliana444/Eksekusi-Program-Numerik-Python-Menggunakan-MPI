@@ -3,7 +3,7 @@
 ![Topologi)](https://github.com/feliana444/Eksekusi-Program-Numerik-Python-Menggunakan-MPI/assets/145323449/e6393cd6-9525-452e-a15a-94c587a56c1e)
 
 ## Langkah Awal
-Pastikan pada komputer sudah menginstall MPI, berikut adalah link cara menginstall MPI <br> ![MPI](https://github.com/feliana444/Eksekusi-Program-Buble-Sort-Python-Menggunakan-MPI/tree/main)
+Pastikan pada komputer sudah menginstall MPI, berikut adalah link cara menginstall MPI <br> ![MPI](https://github.com/feliana444/Eksekusi-Program-Buble-Sort-Python-Menggunakan-MPI)
 
 ## 1. New User
 ### 1.1 Buat User <br>
